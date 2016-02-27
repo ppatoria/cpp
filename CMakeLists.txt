@@ -21,3 +21,4 @@ endif()
 #################
 find_package( GTest REQUIRED )
 add_subdirectory( functional-programming )
+add_subdirectory( problem-solving )
